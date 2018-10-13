@@ -1,0 +1,48 @@
+Enter the filename to read from: C:\Users\Administrator\IdeaProjects\CSCI2141-lab4\src\CountriesCapitals.txt
+Welcome to the Country-Capital Quiz!
+Play?
+Yes
+What country has Yaounde as its capital?
+Cameroon
+CorrectPlay?
+Yes
+What is the Capital of Palau
+Ngreulmud
+Incorrect. The correct answer is Melekeok Play?
+Yes
+What country has Prague as its capital?
+Czech
+Incorrect. The correct answer is Czech Republic Play?
+Yes
+What country has Kinshasa as its capital?
+ds
+Incorrect. The correct answer is Congo, Democratic Republic of the Play?
+no
+Play?
+No
+Game Over!
+Game Stats:
+Question played: 4.0; Correct answers: 1.0; Score:25.0%
+Enter the filename to read from: C:\Users\Administrator\IdeaProjects\CSCI2141-lab4\src\CountriesCapitals.txt
+Welcome to the Country-Capital Quiz!
+Play?
+Yes
+What is the Capital of Tuvalu
+Funafuti
+Incorrect. The correct answer is Vaiaku village Play?
+Yes
+What country has Port Louis as its capital?
+Mauritius
+Correct! Play?
+Yes
+What is the Capital of Bahrain
+asd
+Incorrect. The correct answer is Manama Play?
+Yes
+What country has Luanda as its capital?
+Angola
+Correct! Play?
+No
+Game Over!
+Game Stats:
+Question played: 4.0; Correct answers: 2.0; Score:50.0%

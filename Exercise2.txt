@@ -1,0 +1,54 @@
+Enter the filename to read from: C:\Users\Administrator\IdeaProjects\CSCI2141-lab4\src\studentrecords.txt
+What would you like to do? (add,delete,display,search,quit): 
+add
+Enter the record: 
+201831 John Doe jdoe@email.com Chemistry Science
+Record added
+What would you like to do? (add,delete,display,search,quit): 
+delete
+Enter the ID number to be deleted: 
+201828
+201828 deleted.
+What would you like to do? (add,delete,display,search,quit): 
+display
+Display what(major ,faculty ,student): 
+major
+Enter the major:
+Arts
+What would you like to do? (add,delete,display,search,quit): 
+
+display
+Display what(major ,faculty ,student): 
+major
+Enter the major:
+CS
+201827 John Smith jsmith@email.com CS ComputerScience
+What would you like to do? (add,delete,display,search,quit): 
+display
+Display what(major ,faculty ,student): 
+faculty
+Enter the faculty: 
+Arts
+201829 Mike Williams mwilliams@email.com Music Arts
+201826 Matt Knight mknight@email.com Music Arts
+201822 Tom Elrich telrich@email.com Sculpture Arts
+201820 Kate West kwest@email.com Music Arts
+What would you like to do? (add,delete,display,search,quit): 
+display
+Display what(major ,faculty ,student): 
+student
+Enter the last name: 
+Williams
+201829 Mike Williams mwilliams@email.com Music Arts
+What would you like to do? (add,delete,display,search,quit): 
+search
+Enter the ID Number:
+201829
+201829 Mike Williams mwilliams@email.com Music Arts
+What would you like to do? (add,delete,display,search,quit): 
+exit
+What would you like to do? (add,delete,display,search,quit): 
+quit
+Program ended
+
+Process finished with exit code 0
